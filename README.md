@@ -1,5 +1,5 @@
 ### Hi there 👋 
-![mikepiechota-howthey-design (1) (1)](https://user-images.githubusercontent.com/10028885/178307715-d8e33c4f-e05a-4ea2-8e8a-77249a6d341d.jpg)
+![image](https://user-images.githubusercontent.com/10028885/178309404-cc99152a-eb37-4e77-96c6-6b9fbba14a06.jpg)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGibzB%2FGibzB&count_bg=%230337F2&title_bg=%2301E4F6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
