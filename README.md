@@ -7,6 +7,8 @@ Contributors Badge
 
 Random Joke Generator
 -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/rgibesh.png" alt="TryHackMe">
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GibzB)
