@@ -1,22 +1,18 @@
 ### Hi there 👋 
-![image](https://user-images.githubusercontent.com/10028885/178309404-cc99152a-eb37-4e77-96c6-6b9fbba14a06.jpg)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGibzB%2FGibzB&count_bg=%230337F2&title_bg=%2301E4F6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=GibzB&show_icons=true)
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GibzB&theme=blue-green)
 
 <!--
-## 3. Contributors Badge
+
+Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=GibzB/Python)
-## 4. Random Joke Generator
+
+Random Joke Generator
 -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/rgibesh.png" alt="TryHackMe">
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GibzB)
+[![wakatime](https://wakatime.com/badge/user/a9611eba-023d-4156-99b4-1af365292f85.svg)](https://wakatime.com/@a9611eba-023d-4156-99b4-1af365292f85)
 
 <!--
 **GibzB/GibzB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
