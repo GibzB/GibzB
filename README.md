@@ -17,6 +17,9 @@ Random Joke Generator
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!--
 **GibzB/GibzB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
