@@ -14,7 +14,8 @@ Random Joke Generator
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GibzB)
 [![wakatime](https://wakatime.com/badge/user/a9611eba-023d-4156-99b4-1af365292f85.svg)](https://wakatime.com/@a9611eba-023d-4156-99b4-1af365292f85)
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!--
 **GibzB/GibzB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
