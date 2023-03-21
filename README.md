@@ -15,7 +15,9 @@ Random Joke Generator
 [![wakatime](https://wakatime.com/badge/user/a9611eba-023d-4156-99b4-1af365292f85.svg)](https://wakatime.com/@a9611eba-023d-4156-99b4-1af365292f85)
 
 <!--START_SECTION:Workshops-->
-[![Cassandra Workshop](https://badgr.com/public/assertions/HQTe10QkSB2DT5U5K-Kp_w)](https://media.badgr.com/uploads/badges/assertion-HQTe10QkSB2DT5U5K-Kp_w.png)
+[![Netflix Clone with GraphQL Workshop](https://media.badgr.com/uploads/badges/assertion-L0fBvKwlT2GLJD7QlUX18Q.png)](https://badgr.com/public/assertions/L0fBvKwlT2GLJD7QlUX18Q)
+<!--[![Title](Image URL)](Link URL)-->
+[![Intro to Cassandra Workshop](https://media.badgr.com/uploads/badges/assertion-HQTe10QkSB2DT5U5K-Kp_w.png)](https://badgr.com/public/assertions/HQTe10QkSB2DT5U5K-Kp_w)
 <!--END_SECTION:Workshops-->
 
 <!--START_SECTION:badges-->
