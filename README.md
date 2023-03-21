@@ -14,8 +14,9 @@ Random Joke Generator
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GibzB)
 [![wakatime](https://wakatime.com/badge/user/a9611eba-023d-4156-99b4-1af365292f85.svg)](https://wakatime.com/@a9611eba-023d-4156-99b4-1af365292f85)
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<!--START_SECTION:Workshops-->
+[![Cassandra Workshop](https://badgr.com/public/assertions/HQTe10QkSB2DT5U5K-Kp_w)](https://media.badgr.com/uploads/badges/assertion-HQTe10QkSB2DT5U5K-Kp_w.png)
+<!--END_SECTION:Workshops-->
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
