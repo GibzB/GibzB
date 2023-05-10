@@ -20,9 +20,17 @@
 
 <img align="left" alt="GibzB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GibzB&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[![img](https://camo.githubusercontent.com/7ceb2da3f59f50f5d64cdce3e05b53a452f09c4519ea18bd6287269dac7b0344/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d467265736869612d4e6a6f6b69267468656d653d6461726b26686964655f626f726465723d74727565)](https://camo.githubusercontent.com/7ceb2da3f59f50f5d64cdce3e05b53a452f09c4519ea18bd6287269dac7b0344/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d467265736869612d4e6a6f6b69267468656d653d6461726b26686964655f626f726465723d74727565)
 
-## Recent GitHub Activity
+
+
+
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GibzB&theme=highcontrast)](https://git.io/streak-stats)
+
+# Recent GitHub Activity
 
 1. 💪 Opened PR [#29109](https://github.com/google/it-cert-automation-practice/pull/29109) in [it-cert-automation-practice](https://github.com/google/it-cert-automation-practice/)
 2. 🗣 Commented on [#18](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members/pull/18) in [BRIAN-KEPHA-TELEGRAM-COMMUNITY / Community_Members](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members)
