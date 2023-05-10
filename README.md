@@ -14,7 +14,7 @@
 - [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
 - [Artificial Intelligence And The Future Of Employment](https://www.monitor.co.ke/2020/10/22/artificial-intelligence-and-the-future-of-employment/)
 
-# 📊 GitHub Stats: 
+# 📊 GitHub Stats:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GibzB)[![wakatime](https://wakatime.com/badge/user/a9611eba-023d-4156-99b4-1af365292f85.svg)](https://wakatime.com/@a9611eba-023d-4156-99b4-1af365292f85)
 
@@ -24,11 +24,11 @@
 
 ## Recent GitHub Activity
 
-1. 🗣 Commented on [#3](https://github.com/motion-canvas/examples/issues/3) in [motion-canvas/examples](https://github.com/motion-canvas/examples)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-3. 💪 Opened PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-4. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
+1. 💪 Opened PR [#29109](https://github.com/google/it-cert-automation-practice/pull/29109) in [it-cert-automation-practice](https://github.com/google/it-cert-automation-practice/)
+2. 🗣 Commented on [#18](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members/pull/18) in [BRIAN-KEPHA-TELEGRAM-COMMUNITY / Community_Members](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members)
+3. 💪 Opened PR [#18](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members/pull/18) in [BRIAN-KEPHA-TELEGRAM-COMMUNITY / Community_Members](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members)
+4. 💪 Opened PR [#575](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/575) in [Coder-forfun / Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
+5. 💪 Opened PR [#43](https://github.com/CloudLabsAI-Azure/Know-Before-You-Go/pull/43) in [CloudLabsAI-Azure / Know-Before-You-Go](https://github.com/CloudLabsAI-Azure/Know-Before-You-Go)
 
 ## 🌐 Socials:
 
@@ -47,34 +47,9 @@
 ### 😂 Random Dev Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<<<<<<< HEAD
-=======
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=GibzB)
-[![wakatime](https://wakatime.com/badge/user/a9611eba-023d-4156-99b4-1af365292f85.svg)](https://wakatime.com/@a9611eba-023d-4156-99b4-1af365292f85)
-
-<!--START_SECTION:Workshops-->
 [![Netflix Clone with GraphQL Workshop](https://media.badgr.com/uploads/badges/assertion-L0fBvKwlT2GLJD7QlUX18Q.png)](https://badgr.com/public/assertions/L0fBvKwlT2GLJD7QlUX18Q)
+
 <!--[![Title](Image URL)](Link URL)-->
+
 [![Intro to Cassandra Workshop](https://media.badgr.com/uploads/badges/assertion-HQTe10QkSB2DT5U5K-Kp_w.png)](https://badgr.com/public/assertions/HQTe10QkSB2DT5U5K-Kp_w)
-<!--END_SECTION:Workshops-->
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
-<!--
-**GibzB/GibzB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
->>>>>>> 05ce454aeaa0713d4e2830622ea849f9dc735e21
