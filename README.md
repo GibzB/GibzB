@@ -42,13 +42,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GibzB&theme=highcontrast)](https://git.io/streak-stats)
 
-🔥 Get streak stats for your profile at [git.io/streak-stats](https://git.io/streak-stats)
 
 ### 💻 GitHub Profile Stats
 
 <img align="left" alt="GibzB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GibzB&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
 
 ### ⚡ Recent GitHub Activity
 
@@ -71,5 +68,3 @@
 [![Netflix Clone with GraphQL Workshop](https://media.badgr.com/uploads/badges/assertion-L0fBvKwlT2GLJD7QlUX18Q.png)](https://badgr.com/public/assertions/L0fBvKwlT2GLJD7QlUX18Q)
 
 <!--[![Title](Image URL)](Link URL)-->
-
-
