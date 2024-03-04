@@ -66,8 +66,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![Intro to Cassandra Workshop](https://media.badgr.com/uploads/badges/assertion-HQTe10QkSB2DT5U5K-Kp_w.png)](https://badgr.com/public/assertions/HQTe10QkSB2DT5U5K-Kp_w)
 
-[![Netflix Clone with GraphQL Workshop](https://media.badgr.com/uploads/badges/assertion-L0fBvKwlT2GLJD7QlUX18Q.png)](https://badgr.com/public/assertions/L0fBvKwlT2GLJD7QlUX18Q)
 
 <!--[![Title](Image URL)](Link URL)-->
