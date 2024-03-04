@@ -1,6 +1,7 @@
 # Hi there, I'm Billy - aka Gibz👋
 
-### I'm a Son, Developer, Phlegmatic and Long life learner!!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=3000&random=false&width=700&lines=I'm+a+Son%2C+Developer%2C+Phlegmatic+and+Long+life+learner!!)](https://git.io/typing-svg)
 
 - 🔭 Check out my TryhackMe [streak](https://tryhackme.com/p/rgibesh).
 - 🌱 I’m currently learning everything 🤣
@@ -13,6 +14,8 @@
 
 - [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
 - [Artificial Intelligence And The Future Of Employment](https://www.monitor.co.ke/2020/10/22/artificial-intelligence-and-the-future-of-employment/)
+
+
 
 <details open=""><summary><h2 dir="auto"><a id="user-content--github-stats-and-activity" class="anchor" aria-hidden="true" href="https://github.com/DenverCoder1#-github-stats-and-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">💻</g-emoji><span> </span>Tech Stack:</h2></summary>
 
