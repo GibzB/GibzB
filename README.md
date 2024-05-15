@@ -48,7 +48,7 @@
 4. 💪 Opened PR [#575](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/575) in [Coder-forfun / Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
 5. 💪 Opened PR [#43](https://github.com/CloudLabsAI-Azure/Know-Before-You-Go/pull/43) in [CloudLabsAI-Azure / Know-Before-You-Go](https://github.com/CloudLabsAI-Azure/Know-Before-You-Go)
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote-->
 
 
 ### 😂 Random Dev Joke
