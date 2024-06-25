@@ -1,4 +1,4 @@
-# Hi there, I'm Billy - aka Gibz👋
+# Hi there, I'm Gibz👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=3000&random=false&width=700&lines=I'm+a+Son%2C+Developer%2C+Phlegmatic+and+Long+life+learner!!)](https://git.io/typing-svg)
 
