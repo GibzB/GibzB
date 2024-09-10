@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=3000&random=false&width=700&lines=I'm+a+Son%2C+Developer%2C+Phlegmatic+and+Long+life+learner!!)](https://git.io/typing-svg)
 
 - 🔭 Check out my TryhackMe [streak](https://tryhackme.com/p/GibzB).
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to make more projects for my portfolio
+- 🤩 AWS Cloud Practitioner Certified, Azure Fundamentals Certified , Azure AI Fundamentals Certified, Microsoft Security, Compliance, and Identity Fundamentals Certified
+
+- 🌱 I’m currently learning Python 🐍 + Cloud ☁️ (GCP , Azure , AWS)
 - 🥅 2024 Goals: CyberSecurity Analyst + Python
 - ⚡ Fun fact: I'm an F1 Ferrari fan
 - 💬 Ask me about ...
