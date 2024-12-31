@@ -6,7 +6,7 @@
 - 🤩 AWS Cloud Practitioner Certified, Azure Fundamentals Certified , Azure AI Fundamentals Certified, Microsoft Security, Compliance, and Identity Fundamentals Certified
 
 - 🌱 I’m currently learning Python 🐍 + Cloud ☁️ (GCP , Azure , AWS)
-- 🥅 2024 Goals: CyberSecurity Analyst + Python
+- 🥅 2025 Goals: CyberSecurity SOC Analyst + Python, Solutions Associate Architect Certified
 - ⚡ Fun fact: I'm an F1 Ferrari fan
 - 💬 Ask me about ...
 
