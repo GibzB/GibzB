@@ -6,7 +6,7 @@
 - 🤩 AWS Solutions Architect, AWS Cloud Practitioner Certified, Azure Fundamentals Certified , Azure AI Fundamentals Certified, Microsoft Security, Compliance, and Identity Fundamentals Certified
 
 - 🌱 I’m currently learning Python 🐍 
-- 🥅 2025 Goals: Multi-Cloud Cloud Engineer specialising in CyberSecurity SOC Analyst + Python Automations.
+- 🥅 2025 Goals: Multi-Cloud Engineer specialising in CyberSecurity SOC Analyst + Python Automations.
 - ⚡ Fun fact: I'm an F1 Ferrari fan
 - 🔭 Check out my TryhackMe [streak](https://tryhackme.com/p/GibzB).
 - 💬 Ask me about ...
