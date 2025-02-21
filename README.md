@@ -35,7 +35,8 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GibzB)[![wakatime](https://wakatime.com/badge/user/a9611eba-023d-4156-99b4-1af365292f85.svg)](https://wakatime.com/@a9611eba-023d-4156-99b4-1af365292f85)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GibzB&theme=highcontrast)](https://git.io/streak-stats)
+
+
 
 ### 💻 GitHub Profile Stats
 
