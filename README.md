@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning Python 🐍 
 - 🥅 2025 Goals: Multi-Cloud Engineer specialising in CyberSecurity SOC Analyst + Python Automations.
 - ⚡ Fun fact: I'm an F1 Ferrari fan
-- 🔭 Check out my TryhackMe [streak](https://tryhackme.com/p/GibzB).
 - 💬 Ask me about ...
 
 ### 📕 Interesting Blog Posts
