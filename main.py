@@ -2,7 +2,6 @@
 Rock Paper Scissors Game using GitHub Issues.
 Users play by opening issues with move names in the title.
 """
-
 import random
 import os
 from github import Github
