@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=3000&random=false&width=700&lines=I'm+a+Son%2C+Developer%2C+Phlegmatic+and+Long+life+learner!!)](https://git.io/typing-svg)
 
 
-- 🤩 AWS Solutions Architect, AWS Cloud Practitioner Certified, Azure Fundamentals Certified , Azure AI Fundamentals Certified, Microsoft Security, Compliance, and Identity Fundamentals Certified
+- 🤩 AWS Security Specialty , AWS Solutions Architect, AWS Cloud Practitioner Certified, Azure Fundamentals Certified , Azure AI Fundamentals Certified, Microsoft Security, Compliance, and Identity Fundamentals Certified
 
 - 🌱 I’m currently learning Python 🐍 
 - 🥅 2025 Goals: Multi-Cloud Engineer specialising in CyberSecurity SOC Analyst + Python Automations.
