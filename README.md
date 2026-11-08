@@ -1,60 +1,112 @@
-# Hi there, I'm Gibz👋
+# 👋 Hi, I'm Billy G
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=3000&random=false&width=700&lines=I'm+a+Son%2C+Developer%2C+Phlegmatic+and+Long+life+learner!!)](https://git.io/typing-svg)
+![GitHub followers](https://img.shields.io/github/followers/GibzB?style=for-the-badge&color=%2358a6ff&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/GibzB?style=for-the-badge&color=%2358a6ff&logo=github)
 
+## 📖 About Me
 
-- 🤩 AWS Security Specialty , AWS Solutions Architect, AWS Cloud Practitioner Certified, Azure Fundamentals Certified , Azure AI Fundamentals Certified, Microsoft Security, Compliance, and Identity Fundamentals Certified
+I'm an AWS Certified Solutions Architect and full-stack developer passionate about building cloud-native AI solutions. I specialize in designing scalable architectures on AWS and creating intelligent applications that leverage modern AI/ML capabilities.
 
-- 🌱 I’m currently learning Python 🐍 
-- 🥅 2025 Goals: Multi-Cloud Engineer specialising in CyberSecurity SOC Analyst + Python Automations.
-- ⚡ Fun fact: I'm an F1 Ferrari fan
-- 💬 Ask me about ...
+Currently focused on:
+- Building autonomous AI agents and agentic workflows
+- Designing enterprise-grade AWS architectures
+- Creating practical AI/ML applications that solve real-world problems
+- Developing developer tools that streamline cloud workflows
 
-### 📕 Interesting Blog Posts
+## 🚀 Projects
 
-- [Artificial Intelligence And The Future Of Employment](https://www.monitor.co.ke/2020/10/22/artificial-intelligence-and-the-future-of-employment/)
+### [AWS-Architect-Discovery-Agent](https://github.com/GibzB/AWS-Architect-Discovery-Agent)
 
-<details open=""><summary><h2 dir="auto"><a id="user-content--github-stats-and-activity" class="anchor" aria-hidden="true" href="https://github.com/DenverCoder1#-github-stats-and-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">💻</g-emoji><span> </span>Tech Stack:</h2></summary>
+An autonomous AI Solutions Architect that conducts enterprise cloud discovery workshops through natural voice and chat conversations. Uses multi-agent reasoning with Amazon Nova Pro and Lite to produce implementation-ready deliverables including Terraform code and architecture diagrams.
 
-### 👨‍💻 **Programming and Markup Languages**
+**Tech Stack:** React, TypeScript, FastAPI, Amazon Bedrock, Terraform, DynamoDB, S3
 
+### [Axiom](https://github.com/GibzB/Axiom)
 
-### 🧰 Frameworks and Libraries
+An agentic decision-intelligence platform that captures why technical decisions were made and re-evaluates assumptions when new evidence appears. Uses Amazon Nova 2 Lite for reasoning and CockroachDB's distributed vector index for semantic memory.
 
+**Tech Stack:** React, TypeScript, Vite, FastAPI, Amazon Bedrock, CockroachDB
 
-### 🗄️ Databases and Cloud Hosting
+### [momentum-ai](https://github.com/GibzB/momentum-ai)
 
+AI-powered project prioritization assistant that helps teams decide what to work on next. Analyzes projects, deadlines, and task descriptions to deliver ranked recommendations with explanations using Amazon Bedrock Nova Lite.
 
-### 💻 Software and Tools
+**Tech Stack:** React 19, TypeScript, FastAPI, Amazon Bedrock, DynamoDB, Terraform, AWS Amplify
 
+### [skillforge](https://github.com/GibzB/skillforge)
 
-### 🌐 Socials:
+Turn any public documentation page into an Agent Pack that AI coding agents can use. Extracts knowledge, compiles evidence-backed Knowledge Graphs, and packages results as portable ZIP downloads.
 
+**Tech Stack:** Next.js, FastAPI, Python 3.12, Firecrawl, CometAPI
 
-<details open=""><summary><h2 dir="auto"><a id="user-content--github-stats-and-activity" class="anchor" aria-hidden="true" href="https://github.com/DenverCoder1#-github-stats-and-activity"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">🔥</g-emoji><span> </span>Streak Stats</h2></summary>
+### [AWS Documentation](https://github.com/GibzB/AWS-Documentation)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=GibzB)[![wakatime](https://wakatime.com/badge/user/a9611eba-023d-4156-99b4-1af365292f85.svg)](https://wakatime.com/@a9611eba-023d-4156-99b4-1af365292f85)
+Comprehensive AWS reference materials and learning resources including the Well-Architected Framework, Amazon Bedrock documentation, and prompt engineering guides.
 
+**Contents:** AWS Documentation PDFs, Code Examples, Best Practices
 
+## 🛠️ Technical Skills
 
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-cloudformation&logoColor=white)
 
-### 💻 GitHub Profile Stats
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-232F3E?style=flat-square&logo=amazon-lambda&logoColor=white)
 
-<img align="left" alt="GibzB's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GibzB&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### ⚡ Recent GitHub Activity
+### AI / ML
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nova Pro](https://img.shields.io/badge/Amazon_Nova_Pro-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nova Lite](https://img.shields.io/badge/Amazon_Nova_Lite-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Titan](https://img.shields.io/badge/Amazon_Titan-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-1. 💪 Opened PR [#29109](https://github.com/google/it-cert-automation-practice/pull/29109) in [it-cert-automation-practice](https://github.com/google/it-cert-automation-practice/)
-2. 🗣 Commented on [#18](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members/pull/18) in [BRIAN-KEPHA-TELEGRAM-COMMUNITY / Community_Members](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members)
-3. 💪 Opened PR [#18](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members/pull/18) in [BRIAN-KEPHA-TELEGRAM-COMMUNITY / Community_Members](https://github.com/BRIAN-KEPHA-TELEGRAM-COMMUNITY/Community_Members)
-4. 💪 Opened PR [#575](https://github.com/Coder-forfun/Hactoberfest-accepted/pull/575) in [Coder-forfun / Hactoberfest-accepted](https://github.com/Coder-forfun/Hactoberfest-accepted)
-5. 💪 Opened PR [#43](https://github.com/CloudLabsAI-Azure/Know-Before-You-Go/pull/43) in [CloudLabsAI-Azure / Know-Before-You-Go](https://github.com/CloudLabsAI-Azure/Know-Before-You-Go)
+### Databases
+![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6934FF?style=flat-square&logo=cockroachdb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<!--### ✍️ Random Dev Quote-->
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GibzB&show_icons=true&theme=transparent&bg_color=0,58a6ff,1c59d0&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GibzB&layout=compact&theme=transparent&bg_color=0,58a6ff,1c59d0&title_color=ffffff&text_color=ffffff" height="180" />
+</p>
 
-### 😂 Random Dev Joke
+## 📬 Let's Connect
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+  <a href="https://www.linkedin.com/in/billy-g-367b5b144/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:billy@billyg.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/GibzB" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/GibzB" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-<!--[![Title](Image URL)](Link URL)-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GibzB&color=58a6ff" />
+</p>
+
+---
+
+<p align="center">
+  <b><i>"Turn priorities into progress"</i></b><br>
+  <small>Momentum AI philosophy</small>
+</p>
