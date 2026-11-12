@@ -39,3 +39,22 @@ Turn any public documentation page into an Agent Pack that AI coding agents can 
 
 **Tech Stack:** Next.js, FastAPI, Python 3.12, Firecrawl, CometAPI
 
+---
+
+## 🏗️ Architecture Diagrams
+
+Interactive architecture diagrams for my key projects. Click any diagram to explore the full interactive version.
+
+| Project | Architecture Overview |
+|---------|----------------------|
+| **AWS-Architect-Discovery-Agent** | [![AWS Architect Discovery Agent Architecture](./assets/diagrams/aws-architect-discovery-agent.architecture.html)](./assets/diagrams/aws-architect-discovery-agent.architecture.html) |
+| **Axiom** | [![Axiom Architecture](./assets/diagrams/axiom.architecture.html)](./assets/diagrams/axiom.architecture.html) |
+| **momentum-ai** | [![Momentum AI Architecture](./assets/diagrams/momentum-ai.architecture.html)](./assets/diagrams/momentum-ai.architecture.html) |
+| **skillforge** | [![SkillForge Architecture](./assets/diagrams/skillforge.architecture.html)](./assets/diagrams/skillforge.architecture.html) |
+
+These diagrams are generated with [Archify](https://github.com/tt-a1i/archify) and feature:
+- 🌓 Dark/Light theme support
+- 🔍 Interactive node exploration
+- 🛤️ Path tracing and route highlighting
+- 📊 Source-backed architecture evidence
+
