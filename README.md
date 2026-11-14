@@ -47,10 +47,10 @@ Interactive architecture diagrams for my key projects. Click any diagram to expl
 
 | Project | Architecture Overview |
 |---------|----------------------|
-| **AWS-Architect-Discovery-Agent** | [![AWS Architect Discovery Agent Architecture](./assets/diagrams/aws-architect-discovery-agent.architecture.html)](./assets/diagrams/aws-architect-discovery-agent.architecture.html) |
-| **Axiom** | [![Axiom Architecture](./assets/diagrams/axiom.architecture.html)](./assets/diagrams/axiom.architecture.html) |
-| **momentum-ai** | [![Momentum AI Architecture](./assets/diagrams/momentum-ai.architecture.html)](./assets/diagrams/momentum-ai.architecture.html) |
-| **skillforge** | [![SkillForge Architecture](./assets/diagrams/skillforge.architecture.html)](./assets/diagrams/skillforge.architecture.html) |
+| **AWS-Architect-Discovery-Agent** | [![AWS Architect Discovery Agent Architecture](./assets/diagrams/aws-architect-discovery-agent.architecture.png)](./assets/diagrams/aws-architect-discovery-agent.architecture.html) |
+| **Axiom** | [![Axiom Architecture](./assets/diagrams/axiom.architecture.png)](./assets/diagrams/axiom.architecture.html) |
+| **momentum-ai** | [![Momentum AI Architecture](./assets/diagrams/momentum-ai.architecture.png)](./assets/diagrams/momentum-ai.architecture.html) |
+| **skillforge** | [![SkillForge Architecture](./assets/diagrams/skillforge.architecture.png)](./assets/diagrams/skillforge.architecture.html) |
 
 These diagrams are generated with [Archify](https://github.com/tt-a1i/archify) and feature:
 - 🌓 Dark/Light theme support
