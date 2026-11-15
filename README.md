@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-bgibendi01%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgibendi01@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@rgibesh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rgibesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-g-2b6267129/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bgibs/)
 
 ## 📖 About Me
 
