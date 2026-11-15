@@ -3,6 +3,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/GibzB?style=for-the-badge&color=%2358a6ff&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/GibzB?style=for-the-badge&color=%2358a6ff&logo=github)
 
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-bgibendi01%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgibendi01@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@rgibesh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rgibesh)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0723775792-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254723775792)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billy-g-2b6267129/)
+
 ## 📖 About Me
 
 I'm an AWS Certified Solutions Architect and full-stack developer passionate about building cloud-native AI solutions. I specialize in designing scalable architectures on AWS and creating intelligent applications that leverage modern AI/ML capabilities.
